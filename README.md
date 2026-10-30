@@ -7,17 +7,17 @@
 - Ariel Chanatasig
 
 ## Objetivo
-Construir una aplicación de consola funcional en Java aplicando Programación Orientada a Objetos (POO) para resolver un sistema de distribución de mercancías entre bodegas mediante rutas de capacidad limitada, implementando validaciones de stock y control de rutas saturadas[cite: 1, 5].
+Construir una aplicación de consola funcional en Java aplicando Programación Orientada a Objetos (POO) para resolver un sistema de distribución de mercancías entre bodegas mediante rutas de capacidad limitada, implementando validaciones de stock y control de rutas saturadas.
 
 ## Clases y Métodos Principales
 - **Producto:** Gestiona los atributos básicos (código y nombre) de la mercancía.
-- **Bodega:** Administra el inventario de productos por medio de un `HashMap`, permitiendo agregar y reducir stock de forma segura[cite: 5].
-- **Ruta:** Controla las conexiones entre bodegas, evaluando la capacidad máxima, el uso actual y detectando rutas saturadas[cite: 5].
-- **Distribuidor:** Clase lógica que coordina las colecciones de bodegas y rutas, procesando los despachos y validando existencias[cite: 5].
-- **Main:** Controla la interfaz de usuario mediante un menú interactivo con bucles y opciones de consola[cite: 1, 5].
+- **Bodega:** Administra el inventario de productos por medio de un `HashMap`, permitiendo agregar y reducir stock de forma segura.
+- **Ruta:** Controla las conexiones entre bodegas, evaluando la capacidad máxima, el uso actual y detectando rutas saturadas.
+- **Distribuidor:** Clase lógica que coordina las colecciones de bodegas y rutas, procesando los despachos y validando existencias.
+- **Main:** Controla la interfaz de usuario mediante un menú interactivo con bucles y opciones de consola.
 
 ## Compilación y Ejecución
-1. Abra el proyecto en Visual Studio Code[cite: 1].
+1. Abra el proyecto en Visual Studio Code
 2. Ubíquese dentro de la carpeta `src/`.
 3. Compile todos los archivos `.java` o ejecute directamente la clase `Main.java`. 
 
