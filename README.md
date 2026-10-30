@@ -19,10 +19,14 @@ Construir una aplicación de consola funcional en Java aplicando Programación O
 ## Compilación y Ejecución
 1. Abra el proyecto en Visual Studio Code[cite: 1].
 2. Ubíquese dentro de la carpeta `src/`.
-3. Compile todos los archivos `.java` o ejecute directamente la clase `Main.java`.
+3. Compile todos los archivos `.java` o ejecute directamente la clase `Main.java`. 
+
+---
 
 ## Capturas de Ejecución
-*(Agregue aquí capturas de pantalla de su consola funcionando)*
+<img width="933" height="422" alt="image" src="https://github.com/user-attachments/assets/b7ed75b4-9003-4e84-99cd-7fbb21793293" />
+
+<img width="796" height="389" alt="image" src="https://github.com/user-attachments/assets/0a9f02f5-ec7f-4294-ae5a-a1bce1a1af91" />
 
 ## Distribución de Responsabilidades
 - **Adrián Andaluz:** Arquitectura inicial, clase `Main` (menú interactivo) e integración general del repositorio.
